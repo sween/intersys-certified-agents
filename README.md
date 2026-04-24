@@ -21,8 +21,6 @@ Using the other agents in this repo!
 
 [Prompts Included!](ron_sweeney/)
 
-[intersystems-certified*-agents Community Post](https://community.intersystems.com/post/intersystems-certified-agents)
-
 ## ⚡ Quick Start
 
 ### Option 1: Use with Claude Code (Popular)
