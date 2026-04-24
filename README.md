@@ -4,7 +4,7 @@
 
 AI Specialists "Ready" to Transform your Workflow.  
 
-### 💻 InterSystems Certified Agents
+### ![alt text](image-1.png) InterSystems Certified Agents
 
 `Quit $$$OK`
 
