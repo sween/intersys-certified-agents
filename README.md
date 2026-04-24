@@ -1,11 +1,11 @@
 ![alt text](image.png)
 
-# InterSys Certified* Agents  
+# Iris Certified* Agents  
 
 AI Specialists "Ready" to Transform your Workflow.  
 * agents are not actually certified in anything.
 
-### ![alt text](image-1.png) InterSys Certified Agents
+### ![alt text](image-1.png) Iris Certified Agents
 
 `Quit $$$OK`
 
