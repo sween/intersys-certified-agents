@@ -1,8 +1,9 @@
 ![alt text](image.png)
 
-# InterSystems Certified Agents  
+# InterSys Certified* Agents  
 
 AI Specialists "Ready" to Transform your Workflow.  
+* agents are not actually certified in anything.
 
 ### ![alt text](image-1.png) InterSystems Certified Agents
 
