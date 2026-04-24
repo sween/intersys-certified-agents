@@ -13,6 +13,7 @@ set -euo pipefail
 # Keep in sync with AGENT_DIRS in scripts/convert.sh
 AGENT_DIRS=(
   academic
+  intersystems
   design
   engineering
   finance
