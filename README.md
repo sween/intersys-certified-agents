@@ -5,7 +5,7 @@
 AI Specialists "Ready" to Transform your Workflow.  
 * agents are not actually certified in anything.
 
-### ![alt text](image-1.png) InterSystems Certified Agents
+### ![alt text](image-1.png) InterSys Certified Agents
 
 `Quit $$$OK`
 
