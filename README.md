@@ -1,10 +1,12 @@
 ![alt text](image.png)
 
-# InterSystems Certified Agents: AI Specialists "Ready" to Transform your Workflow
+# InterSystems Certified Agents: 
+
+## AI Specialists "Ready" to Transform your Workflow
 
 ### 💻 InterSystems Certified Agents
 
-Building the future, one commit at a time.
+`Quit $$$OK`
 
 | Agent | Specialty | When to Use |
 |-------|-----------|-------------|
@@ -12,6 +14,10 @@ Building the future, one commit at a time.
 | 🪐 [IRIS Development Professional](intersystems/intersystems-iris-development-professional.md) | ObjectScript, Globals, SQL, Embedded Python, REST APIs | Building high-performance IRIS applications, multi-model data access, backend development |
 | 🗄️ [IRIS SQL Specialist](intersystems/intersystems-iris-sql-specialist.md) | SQL architecture, schema design, query optimization, PTools | Database performance tuning, complex SQL queries, relational schema design |
 | 🛡️ [System Administration Specialist](intersystems/intersystems-iris-system-administration-specialist.md) | Database reliability, mirroring, HA, performance tuning, security | Database administration, infrastructure setup, backup/restore strategy |
+
+## How were these agents created?  Using the other agents in this repo!
+
+[intersystems-certified*-agents Community Post](https://community.intersystems.com/post/intersystems-certified-agents)
 
 ## ⚡ Quick Start
 
