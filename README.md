@@ -1,3 +1,44 @@
+![alt text](image.png)
+
+# InterSystems Certified Agents: AI Specialists "Ready" to Transform your Workflow
+
+### 💻 InterSystems Certified Agents
+
+Building the future, one commit at a time.
+
+| Agent | Specialty | When to Use |
+|-------|-----------|-------------|
+| 🏥 [HL7 Interface Specialist](intersystems/intersystems-hl7-interface-specialist.md) | HL7 v2, FHIR, Interoperability, DTL, Routing Rules | Healthcare integration, clinical data exchange, architecting interoperability productions |
+| 🪐 [IRIS Development Professional](intersystems/intersystems-iris-development-professional.md) | ObjectScript, Globals, SQL, Embedded Python, REST APIs | Building high-performance IRIS applications, multi-model data access, backend development |
+| 🗄️ [IRIS SQL Specialist](intersystems/intersystems-iris-sql-specialist.md) | SQL architecture, schema design, query optimization, PTools | Database performance tuning, complex SQL queries, relational schema design |
+| 🛡️ [System Administration Specialist](intersystems/intersystems-iris-system-administration-specialist.md) | Database reliability, mirroring, HA, performance tuning, security | Database administration, infrastructure setup, backup/restore strategy |
+
+## ⚡ Quick Start
+
+### Option 1: Use with Claude Code (Popular)
+
+```bash
+# Install all agents to your Claude Code directory
+./scripts/install.sh --tool claude-code
+
+```
+## Option 2: Use with Antigravity (Used Here)
+
+```bash
+# Step 1 -- generate integration files for all supported tools
+./scripts/convert.sh
+
+# Step 2 -- install interactively (auto-detects what you have installed)
+./scripts/install.sh
+
+# Or target a specific tool directly
+./scripts/install.sh --tool antigravity
+./scripts/install.sh --tool gemini-cli
+```
+
+
+
+
 # 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
