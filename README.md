@@ -15,7 +15,8 @@
 | 🗄️ [IRIS SQL Specialist](intersystems/intersystems-iris-sql-specialist.md) | SQL architecture, schema design, query optimization, PTools | Database performance tuning, complex SQL queries, relational schema design |
 | 🛡️ [System Administration Specialist](intersystems/intersystems-iris-system-administration-specialist.md) | Database reliability, mirroring, HA, performance tuning, security | Database administration, infrastructure setup, backup/restore strategy |
 
-## How were these agents created?  Using the other agents in this repo!
+## How were these agents created?  
+Using the other agents in this repo!
 
 [intersystems-certified*-agents Community Post](https://community.intersystems.com/post/intersystems-certified-agents)
 
