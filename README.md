@@ -1,8 +1,8 @@
 ![alt text](image.png)
 
-# InterSystems Certified Agents: 
+# InterSystems Certified Agents  
 
-## AI Specialists "Ready" to Transform your Workflow
+AI Specialists "Ready" to Transform your Workflow.  
 
 ### 💻 InterSystems Certified Agents
 
@@ -17,6 +17,8 @@
 
 ## How were these agents created?  
 Using the other agents in this repo!
+
+[Prompts Included!](ron_sweeney/)
 
 [intersystems-certified*-agents Community Post](https://community.intersystems.com/post/intersystems-certified-agents)
 
