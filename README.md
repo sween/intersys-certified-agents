@@ -30,7 +30,7 @@ Using the other agents in this repo!
 ./scripts/install.sh --tool claude-code
 
 ```
-## Option 2: Use with Antigravity (Used Here)
+### Option 2: Use with Other Tools (Antigravity)
 
 ```bash
 # Step 1 -- generate integration files for all supported tools
@@ -43,9 +43,6 @@ Using the other agents in this repo!
 ./scripts/install.sh --tool antigravity
 ./scripts/install.sh --tool gemini-cli
 ```
-
-
-
 
 # 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
 
